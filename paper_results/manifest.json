@@ -1,0 +1,29 @@
+[
+  {
+    "key": "yolov11",
+    "title": "YOLOv11",
+    "results_csv": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov11\\results.csv",
+    "run_dir": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov11",
+    "best_weights": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov11\\weights\\best.pt",
+    "test_images": "C:\\Users\\deepa\\Downloads\\Train\\Grape\\Grape.v1i.yolov11\\test\\images",
+    "inference_ms_per_image": 21.050640000066778
+  },
+  {
+    "key": "yolov12",
+    "title": "YOLOv12",
+    "results_csv": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov12\\results.csv",
+    "run_dir": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov12",
+    "best_weights": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov12\\weights\\best.pt",
+    "test_images": "C:\\Users\\deepa\\Downloads\\Train\\Grape\\Grape.v1i.yolov12\\test\\images",
+    "inference_ms_per_image": 20.6228100001681
+  },
+  {
+    "key": "yolov26",
+    "title": "YOLOv26",
+    "results_csv": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov26\\results.csv",
+    "run_dir": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov26",
+    "best_weights": "C:\\Users\\deepa\\Downloads\\Train\\paper_results\\training_runs\\yolov26\\weights\\best.pt",
+    "test_images": "C:\\Users\\deepa\\Downloads\\Train\\Grape\\Grape.v1i.yolo26\\test\\images",
+    "inference_ms_per_image": 16.805589999967196
+  }
+]
